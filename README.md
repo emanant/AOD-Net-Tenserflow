@@ -5,7 +5,7 @@ research paper implementaion for Image Dehazin - A Model proposed in [[1]](#1)
 * NYU2 dataset used - [dataset](https://drive.google.com/drive/folders/1MVrkrft4Y_ISbq2K-DLqK9pSzg_mNyZl?usp=sharing)
 
 ## Running
-- On Tensorflow 1.x \
+- On Tensorflow 1.x
 - Update downloaded dataset path
 
 **Manan Gajjar** - *Initial work* - [emanant](https://github.com/emanant)
